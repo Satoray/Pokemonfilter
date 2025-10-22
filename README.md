@@ -19,3 +19,8 @@ Python 3.x
 pandas – para manipulação e filtragem de dados
 
 openpyxl – para leitura e escrita de arquivos Excel
+
+<h1 align="center">👋 Olá! Eu sou o Sato</h1>
+<h2 align="center">💻 Estudante de ADS | Banco de Dados & Governança de TI</h2>
+<h3 align="center">📂 Meus Projetos</h3>
+
